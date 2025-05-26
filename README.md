@@ -25,3 +25,10 @@ The system was built with Python and UI tools, includes steps:
 - Task Ranking: Top 10 tasks displayed or downloaded;
 - Graphical Insights: Visualize complexity distribution;
 - Resource Filtering: Input budget and developer limits for final recommendations.
+
+# 🛠️ Tech Stack
+- Python
+- Pandas
+- Tkinter / Streamlit (UI)
+- Matplotlib / Seaborn (Visuals)
+- CSV/XLSX for data import/export
